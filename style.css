@@ -1,0 +1,15 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.primeira-sessão {
+  border: solid #BE4DFA 2px;
+}
+.primeira-sessão div {
+  width: 200px;
+  background: #DBA1FA;
+  height: 200px;
+}/*# sourceMappingURL=style.css.map */
